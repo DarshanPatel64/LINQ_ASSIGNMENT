@@ -1,0 +1,15 @@
+C:\Users\DELL\c#demos\LinqAssignment\bin\Debug\net6.0\c#demos.exe
+C:\Users\DELL\c#demos\LinqAssignment\bin\Debug\net6.0\c#demos.deps.json
+C:\Users\DELL\c#demos\LinqAssignment\bin\Debug\net6.0\c#demos.runtimeconfig.json
+C:\Users\DELL\c#demos\LinqAssignment\bin\Debug\net6.0\c#demos.dll
+C:\Users\DELL\c#demos\LinqAssignment\bin\Debug\net6.0\c#demos.pdb
+C:\Users\DELL\c#demos\LinqAssignment\obj\Debug\net6.0\c#demos.csproj.AssemblyReference.cache
+C:\Users\DELL\c#demos\LinqAssignment\obj\Debug\net6.0\c#demos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\c#demos\LinqAssignment\obj\Debug\net6.0\c#demos.AssemblyInfoInputs.cache
+C:\Users\DELL\c#demos\LinqAssignment\obj\Debug\net6.0\c#demos.AssemblyInfo.cs
+C:\Users\DELL\c#demos\LinqAssignment\obj\Debug\net6.0\c#demos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\c#demos\LinqAssignment\obj\Debug\net6.0\c#demos.dll
+C:\Users\DELL\c#demos\LinqAssignment\obj\Debug\net6.0\refint\c#demos.dll
+C:\Users\DELL\c#demos\LinqAssignment\obj\Debug\net6.0\c#demos.pdb
+C:\Users\DELL\c#demos\LinqAssignment\obj\Debug\net6.0\c#demos.genruntimeconfig.cache
+C:\Users\DELL\c#demos\LinqAssignment\obj\Debug\net6.0\ref\c#demos.dll
